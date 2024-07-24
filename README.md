@@ -1,7 +1,7 @@
 <h1>Projeto menu de fotografias Responsivo</h1>
 <br/>
 <br/>
-<p>Descrição: Neste Projeto desenvolvir Com:
+<p>Descrição: Neste Projeto desenvolvi Com:
   
   - HTML semântico,
   - Grid layout em diversos breakpoints,

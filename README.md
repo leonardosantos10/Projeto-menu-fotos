@@ -1,7 +1,12 @@
 <h1>Projeto menu de fotografias Responsivo</h1>
 <br/>
 <br/>
-<p>Descrição: Neste Projetos Trabalhei Com HTML semântico, Grid layout em diversos breakpoints, Flexbox Responsivo , utilizei a seguintes tecnologias: </p>
+<p>Descrição: Neste Projetos Trabalhei Com:
+  
+  - HTML semântico,
+  - Grid layout em diversos breakpoints,
+  - Flexbox Responsivo ,
+  - utilizei a seguintes tecnologias: </p>
 <br/>
 
 

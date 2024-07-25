@@ -3,9 +3,9 @@
 <br/>
 <p>Descrição: Neste Projeto desenvolvi Com:
   
-  - HTML semântico,
-  - Grid layout em diversos breakpoints,
-  - Flexbox Responsivo ,
+  - HTML semântico
+  - Grid layout em diversos breakpoints
+  - Flexbox Responsivo 
   - utilizei as tecnologias HTML: Estrutura e CSS: estilização, cores,tamanhos</p>
   - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Html-logo"/>
   - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Css-logo"/>
